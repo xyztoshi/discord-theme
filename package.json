@@ -2,7 +2,8 @@
     "name": "discordvstheme",
     "displayName": "Discord VS Theme",
     "description": "A Discord themed Visual Studio Code environment.",
-    "version": "0.0.1",
+    "icon": "./assets/icon.png",
+    "version": "0.0.2",
     "publisher": "xyztoshi",
     "engines": {
         "vscode": "^1.46.0"
